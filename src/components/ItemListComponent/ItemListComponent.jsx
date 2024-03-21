@@ -38,7 +38,7 @@ export default function ItemListComponent () {
             
             
             {
-               categoria ? <h1 className="text-center capitalize font-bold p-2">{categoria}</h1> : <h1 className="font-bold text-center p-2 ">Nuestros libros</h1>
+               categoria ? <h1 className="text-center capitalize font-bold p-2">{categoria}</h1> : <h1 className="font-bold text-center p-2 ">Productos!</h1>
 
             }
               
