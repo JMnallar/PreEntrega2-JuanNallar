@@ -115,7 +115,7 @@ const products = [
         id:3001,
         titulo:"OnePlus Pad" ,
         precio:1500000 ,
-        img:"https://i.pinimg.com/236x/71/fe/4f/71fe4fc2c6b5ba308af2cb3cc0b76d66.jpg" ,
+        img:"https://i.blogs.es/14d66a/oneplus-pad-pantalla/650_1200.webp" ,
         categoria:"Tablets" ,
         descricpion:"La OnePlus Pad es una tableta Android por la que vale la pena entusiasmarse. Con una vívida pantalla de 11,6 pulgadas y 144 Hz, una enorme cámara trasera de 13 MP, bordes curvos y una gran duración de batería, la primera tableta de OnePlus se destaca de la competencia.",
         autor:"OnePlus",
